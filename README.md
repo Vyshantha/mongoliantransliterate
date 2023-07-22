@@ -8,3 +8,7 @@ The application completes transliteration of texts pasted or typed into the text
 The languages ```Khalkha, Chakhar, Oirat/Clear - todo bičig (ᡐᡆᡑᡆ ᡋᡅᡒᡅᡎ), Khamnigan, Buryat, Sibe/Xibe, Evenki, Ordos, Khorchin, Kharchin, Galik - ali-gali üseg, Baarin, Xilingol, Manchu - manju hergen (ᠮᠠᠨᠵᡠ ᡥᡝᡵᡤᡝᠨ) Darkhad, Alasha, Tibetian, Sanskrit``` written in Hudum Mongol bichig ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ are supported with this application.
 
 The texts in Hudum Mongol bichig ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ script written from ```left to right``` in ```horizontal lines``` as well ```top to bottom``` going from ```left to right``` in vertical lines is also supported.
+
+The application is yet to be perfected - "Work In Progress!" 
+
+  <img src="https://github.com/Vyshantha/multiscripteditor/blob/main/editorClient/src/assets/images/keyboard_to_construct.png" data-canonical-src="https://github.com/Vyshantha/multiscripteditor/blob/main/editorClient/src/assets/images/keyboard_to_construct.png" width="100" height="80" />
