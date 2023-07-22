@@ -6,3 +6,5 @@ Application can run on any type of device : ```Mobile, Tablet, Desktops and Lapt
 The application completes transliteration of texts pasted or typed into the text area from Hudum Mongol bichig ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ to Latin script and from Latin script based to Hudum Mongol bichig ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ.
 
 The languages ```Khalkha, Chakhar, Oirat/Clear - todo bičig (ᡐᡆᡑᡆ ᡋᡅᡒᡅᡎ), Khamnigan, Buryat, Sibe/Xibe, Evenki, Ordos, Khorchin, Kharchin, Galik - ali-gali üseg, Baarin, Xilingol, Manchu - manju hergen (ᠮᠠᠨᠵᡠ ᡥᡝᡵᡤᡝᠨ) Darkhad, Alasha, Tibetian, Sanskrit``` written in Hudum Mongol bichig ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ are supported with this application.
+
+The texts in Hudum Mongol bichig ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ script written from ```left to right``` in ```horizontal lines``` as well ```top to bottom``` going from ```left to right``` in vertical lines is also supported.
