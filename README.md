@@ -7,8 +7,7 @@ The application completes transliteration of texts pasted or typed into the text
 
 The languages ```Khalkha, Chakhar, Oirat/Clear - todo bičig (ᡐᡆᡑᡆ ᡋᡅᡒᡅᡎ), Khamnigan, Buryat, Sibe/Xibe, Evenki, Ordos, Khorchin, Kharchin, Galik - ali-gali üseg, Baarin, Xilingol, Manchu - manju hergen (ᠮᠠᠨᠵᡠ ᡥᡝᡵᡤᡝᠨ) Darkhad, Alasha, Tibetian, Sanskrit``` written in Hudum Mongol bichig ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ are supported with this application.
 
-The transliteration adheres to [ALA-LC](https://en.wikipedia.org/wiki/ALA-LC_romanization?wprov=sfla1)
-ion) Standard for Romanisation of Mongolian script.
+The transliteration adheres to [ALA-LC](https://en.wikipedia.org/wiki/ALA-LC_romanization?wprov=sfla1) Standard for Romanisation of Mongolian script.
 
 - To change the transliteration direction i.e. to switch between Latin or Mongolian, click the swap icon  <img src="./swap-horiz-64.png" width="40px" height="40px" />  
 - To copy the contents of the either Latin or Mongolian text areas click the copy content icon  <img src="./content-copy-64.png" width="40px" height="40px" /> 
