@@ -9,9 +9,9 @@ The languages ```Khalkha, Chakhar, Oirat/Clear - todo bičig (ᡐᡆᡑᡆ ᡋ�
 
 The transliteration adheres to [ALA-LC](https://en.wikipedia.org/wiki/ALA-LC_romanization?wprov=sfla1) Standard for Romanisation of Mongolian script.
 
-- To change the transliteration direction i.e. to switch between Latin or Mongolian, click the swap icon  <img src="./swap-horiz-64.png" width="40px" height="40px" />  
-- To copy the contents of the either Latin or Mongolian text areas click the copy content icon  <img src="./content-copy-64.png" width="40px" height="40px" /> 
-- To change direction of Mongolian text from horizontal ```left to right``` to vertical ```top to bottom``` and vice versa click <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Text_direction_TDright.svg/40px-Text_direction_TDright.svg.png" width="40px" height="40px" /> 
+- To change the transliteration direction i.e. to switch between Latin or Mongolian, click the swap icon  <img src="./swap-horiz-64.png" width="20px" height="20px" />  
+- To copy the contents of the either Latin or Mongolian text areas click the copy content icon  <img src="./content-copy-64.png" width="20px" height="20px" /> 
+- To change direction of Mongolian text from horizontal ```left to right``` to vertical ```top to bottom``` and vice versa click <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Text_direction_TDright.svg/40px-Text_direction_TDright.svg.png" width="20px" height="20px" /> 
 
 The application is yet to be perfected - "Work In Progress!" 
 
