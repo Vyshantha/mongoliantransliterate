@@ -70,6 +70,9 @@ function transliterate() {
       https://en.wikipedia.org/wiki/Mongolian_Supplement
   */
 
+  // Adhered Standard : ALA-LC romanization - https://en.wikipedia.org/wiki/ALA-LC_romanization
+  // Complete ALA-LC romanisation : https://www.loc.gov/catdir/cpso/roman.html
+
   if (localStorage.getItem("direction") == null || localStorage.getItem("direction") == undefined || localStorage.getItem("direction") == "latin2mongolian") {
     const latinToMongolian = { " ": "  ", ".": ".", ",": ",", ";": ";", "?": "?", "!": "!", "\"": "\"", "'": "'", "(": "(", ")": ")", ":": ":", "+": "+", "=": "=", "/": "/", "-": "-", "<": "<", ">": ">", "*": "*", "|": "|", "\\": "\\", "{": "{", "}": "}", "[": "[", "]": "]", "_": "_", "%": "%", "@": "@", "ˆ": "ˆ", "`": "`", "´": "´", "·": "·", "˙": "˙", "¯": "¯", "¨": "¨", "˚": "˚", "˝": "˝", "ˇ": "ˇ", "¸": "¸", "˛": "˛", "˘": "˘", "’": "’", "0":"᠐", "1":"᠑", "2":"᠒", "3":"᠓", "4":"᠔", "5":"᠕", "6":"᠖", "7":"᠗", "8":"᠘", "9":"᠙" };
 
@@ -163,6 +166,8 @@ document.getElementById("textarea1").focus();
 if (localStorage.getItem("direction") == null || localStorage.getItem("direction") == undefined || localStorage.getItem("direction") == "mongolian2latin") {
   localStorage.setItem("direction", "latin2mongolian");
   localStorage.setItem("encoding", "Latin");
+} else if (localStorage.getItem("direction") != "mongolian2latin" && localStorage.getItem("direction") != "latin2mongolian") {
+  localStorage.clear();
 }
 
 if (screen.width >= 300 && screen.width <= 500) {
